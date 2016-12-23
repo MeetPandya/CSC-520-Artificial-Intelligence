@@ -1,8 +1,9 @@
-/*Author : Mitkumar Pandya
-  Unity Id : mhpandya
-  Refer to https://www.youtube.com/watch?v=bIA8HEEUxZI for DFS and BFS Graph traversal
-*/
-package com.meet.semester1.CSC520.UnInformedSearch;
+/*
+ * Author : Mitkumar Pandya
+ * CSC-505 Fall 2016
+ * Department of Computer Science
+ * 	NC State
+ */
 
 import java.util.ArrayList;
 import java.util.Arrays;
