@@ -1,8 +1,9 @@
 /*
  * Author : Mitkumar Pandya
- * Unity ID : mhpandya
+ * CSC-505 Fall 2016
+ * Department of Computer Science
+ * 	NC State
  */
-package com.meet.semester1.CSC520.InformedSearch.AStar;
 
 import java.io.FileNotFoundException;
 import java.io.FileReader;
